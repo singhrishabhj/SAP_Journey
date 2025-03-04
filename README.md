@@ -7,7 +7,7 @@ Welcome to my SAP Learning Journey Repository!
 ✅ Master SAP from Basics to Advanced\
 ✅ Build SAP Projects\
 ✅ Get SAP Certification\
-✅ Crack 12+ LPA Package before May 2025 🔥
+
 
 ---
 
